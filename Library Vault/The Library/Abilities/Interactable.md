@@ -1,0 +1,1 @@
+Create a variable that allows us access to different routes. We only allow editing at certain points, and they are concrete paths - the player does not have free editing ability. They can only edit with the pages they've collected - if they use a page, it is gone, which may lock off a route

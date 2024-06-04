@@ -1,0 +1,1 @@
+Believes that there is a perfect book that is made up of scraps / sections of various other books. The Good Book - has religious connotations. She will send you out to get more pages - specific ones, including one you already have. If you give her certain pages, her routes will change.

@@ -1,0 +1,1 @@
+Changes an [[Interactable]] in the library in some way. Usually adds another route. Should be handwriting rather than typed font when displayed. There are ethical questions about using this power. Big'uns

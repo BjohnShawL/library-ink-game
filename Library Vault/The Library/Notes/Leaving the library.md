@@ -1,0 +1,3 @@
+At some point we should confront the [[Player]] with the fact that they could, a long time ago, have just edited their own story to have them leave the library. If they do that, we take them to outside of the library, where they lose their agency - we see the editor version of the [[Player]] watching them walk away into the future, screaming soundlessly or something like that
+
+`The player walks into the future, a strange sense of being controlled washing over them. They sleep each night, and dream of choice. They eat, but do not choose their meals. As you watch, the player grows older, and the paths they do not walk call to you. But you are forced to watch them walk.`

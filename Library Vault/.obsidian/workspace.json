@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "4d4b810a961003ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "74474b450b8f1821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280f1a9f75036750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Library/Characters/Ratman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a283c6fead17298",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c43ebaef65bb22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e97b972e9f596a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "913be497a985a4c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1eda01a3d70997d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41548d3e5f71c8df",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c51843bec5a9a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11f47b5a73fe466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Library/Characters/Ratman.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2bf1ba1a0b482d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Library/Characters/Ratman.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e0ec2490b7872c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cf01722bb08b3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Library/Characters/Ratman.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "280f1a9f75036750",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "The Library/Pages/revised family tree.md",
+    "The Library/Pages/Medical Treatments.md",
+    "The Library/Pages/manifesto.md",
+    "The Library/Pages/Initial Pages.md",
+    "The Library/Notes/Leaving the library.md",
+    "The Library/Characters/Sorial.md",
+    "The Library/Characters/Ratman.md",
+    "The Library/Characters/Player.md",
+    "The Library/Characters/Lillibet.md",
+    "The Library/Characters/Librarian.md",
+    "The Library/Abilities/Interactable.md",
+    "The Library/Abilities/Edit.md",
+    "The Library/Pages",
+    "The Library/Notes",
+    "The Library/Elevator Pitch.md",
+    "The Library/Characters",
+    "The Library/Abilities",
+    "The Library"
+  ]
+}
